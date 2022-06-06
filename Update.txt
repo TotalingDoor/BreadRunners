@@ -1,3 +1,3 @@
-Major server bug fix!
+New update released!
 
-The bug is now fixed where you can't join online
+Fixes the no head glitch!
